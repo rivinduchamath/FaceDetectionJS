@@ -36,7 +36,7 @@ async function start() {
 }
 
 function loadLabeledImages() {
-    const labels = ['Rivindu Chamath' ,'Black Widow', 'Captain America', 'Captain Marvel']
+    const labels = ['Black Widow' , 'Captain America', 'Captain Marvel']
     return Promise.all(
         labels.map(async label => {
             const descriptions = []
