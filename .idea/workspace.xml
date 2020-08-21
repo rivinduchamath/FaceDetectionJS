@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="004f0fb0-a65d-47e5-868c-fd7dfc100f7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face-api.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/face-api.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labeled_images/Black Widow/1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labeled_images/Black Widow/2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labeled_images/Captain America/1.jpg" beforeDir="false" />
@@ -23,8 +22,6 @@
       <change beforePath="$PROJECT_DIR$/labeled_images/Hawkeye/2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labeled_images/Jim Rhodes/1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labeled_images/Jim Rhodes/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labeled_images/Rivindu/WIN_20200821_15_56_47_Pro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labeled_images/Rivindu/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labeled_images/Rivindu/WIN_20200821_15_57_21_Pro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labeled_images/Rivindu/2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labeled_images/Thor/1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labeled_images/Thor/2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labeled_images/Tony Stark/1.jpg" beforeDir="false" />
@@ -53,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/labeled_images/Rivindu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/labeled_images/Chamath" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -82,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598004643282</updated>
-      <workItem from="1598004644361" duration="1313000" />
+      <workItem from="1598004644361" duration="1645000" />
     </task>
     <servers />
   </component>
